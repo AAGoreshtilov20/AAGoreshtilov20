@@ -10,7 +10,7 @@
 
 - 🏢 I’m currently learning HTML5&CSS3 and C++ .
 - 🤖 My progects are available here in Github.
-- 🌊 Fun fact: 
+- 🌊 Fun fact: I am a republic jet ski champion
 - 👾 How to reach me: AAGoreshtilov20@codingburgas.bg
 
 <hr>
