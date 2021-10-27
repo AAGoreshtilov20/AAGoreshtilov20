@@ -30,19 +30,13 @@
 <details>	
   <summary><b>🚀 Github Stats</b></summary>
 
-[Grade](https://github-readme-stats.vercel.app/api?username=AAGoreshtilov20&show_icons=true&theme=radical&count_private=true)
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAGoreshtilov20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=AAGoreshtilov20&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAGoreshtilov20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
   <summary><b>🐉 Contribution Graph</b></summary>
-</details>
-
-<details>
-  <summary><b>🙋🏼‍♂ Repositories</b></summary>
-
-[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
 </details>
 
 <details>
